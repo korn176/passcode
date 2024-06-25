@@ -43,7 +43,7 @@ jobs:
           --template "password_template.html"
           --template-placeholder "Passphrase"
           --template-title "Atarios"
-          --template-instructions "Only the worthy may pass. Enter the correct passphrase to proceed.
+          --template-instructions "Only the worthy may pass. Enter the correct passphrase to proceed."
           --template-button "Submit"
           --template-color-primary "#0000bb"
           --template-color-secondary "#000000"
